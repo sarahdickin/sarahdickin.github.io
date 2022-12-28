@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Dickin / Site Title"
+title                    : "Sarah Dickin"
 title_separator          : "-"
 name                     : &name "Sarah Dickin"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "I am a Senior Research Fellow and Team Leader at the Stockholm Environment Institute working on the scial dimenstions of environment and health challenges"
   location         : "Stockholm, Sweden"
-  employer         : "Stockholm Environment Institute" https://www.sei.org
+  employer         : "Stockholm Environment Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=CkubazwAAAAJ"
   email            :
